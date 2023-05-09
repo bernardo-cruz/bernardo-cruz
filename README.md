@@ -17,19 +17,13 @@ At the moment I am finishing my Master-Thesis .... :P
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=bernardo-cruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)`<br/>`
-![](https://github-readme-streak-stats.herokuapp.com/?user=bernardo-cruz&theme=dark&hide_border=false)`<br/>`
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-cruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bernardo-cruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=bernardo-cruz&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-cruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=bernardo-cruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![img](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)---
-
-[![img](https://visitcount.itsvg.in/api?id=bernardo-cruz&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **bernardo-cruz/bernardo-cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
