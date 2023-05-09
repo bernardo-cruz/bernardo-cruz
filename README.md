@@ -5,9 +5,7 @@ In my role at Bucher Leichtbau AG, I provided advice and support to all departme
 
 I switched to the data science back 2021. At Crealogix AG, I provided advice and support to the department on new data science and machine learning products. I created prospect and upsell models, extracted information from fact-sheets using a customized OCR, and developed user journeys for chatbot dialogue flow. Furthermore, I developed chatbot solutions using IBM Watson and Spacy. After Crealogix I joined Prognolite AG, where I developed regression models to predict turnover and menu sales using customer data and external data such as weather or public holidays, we have used Multi-Output Regression, Quarto👍, R and Python and customized API calls to fetch the data from the data base.
 
-At the moment I am finishing my Master-Thesis .... :P
-
-Soon, I will be working for ... (to be continued 😎)
+At the moment I am finishing my Master-Thesis 🙈 and soon, I will be working for ... (to be continued 😎)
 
 ## 🌐 Socials:
 
