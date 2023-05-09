@@ -24,6 +24,8 @@ At the moment I am finishing my Master-Thesis .... :P
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=bernardo-cruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![img](https://visitcount.itsvg.in/api?id=bernardo-cruz&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **bernardo-cruz/bernardo-cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
