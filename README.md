@@ -1,7 +1,7 @@
 ## 👋 Hi there 
 I am Bernardo, an aeronautical engineer with a BSc in Aeronautical Engineering and (soon: hopefully :P) an MSc in Data Science. My passion lies in both coding and engineering. I am from Zurich 🇨🇭 and have over seven years of experience working as an aeronautical engineer and about two years as a data scientist.
 
-## 💬 Experience  
+## 👨🏽‍💻 Experience  
 In my role at Bucher Leichtbau AG, I provided advice and support to all departments regarding initial airworthiness certification. My expertise included interpreting certification specifications, verifying documentation for "minor" and "major changes," and communicating with customers, official bodies, and authorities. I also provided consulting services to the development department for design optimization.
 
 I switched to data science back in 2021. At Crealogix AG, I provided advice and support to the department on new data science and machine learning products. I created prospect and upsell models, extracted information from fact-sheets using a customized OCR, and developed user journeys for chatbot dialogue flow. Furthermore, I developed chatbot solutions using IBM Watson and Spacy. 
