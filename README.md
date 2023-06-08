@@ -1,14 +1,14 @@
-## 👋 Hi there 
-I am Bernardo, an aeronautical engineer with a BSc in Aeronautical Engineering and (soon: hopefully :P) an MSc in Data Science. My passion lies in both coding and engineering. I am from Zurich 🇨🇭 and have over seven years of experience working as an aeronautical engineer and about two years as a data scientist.
+## 👋 Hi there!
+I'm Bernardo, an aeronautical engineer with a BSc in Aeronautical Engineering and (hopefully soon) an MSc in Data Science. My passion lies in both coding and engineering. I'm from Zurich 🇨🇭 and have over seven years of experience working as an aeronautical engineer and around two years as a data scientist.
 
 ## 👨🏽‍💻 Experience  
-In my role at Bucher Leichtbau AG, I provided advice and support to all departments regarding initial airworthiness certification. My expertise included interpreting certification specifications, verifying documentation for "minor" and "major changes," and communicating with customers, official bodies, and authorities. I also provided consulting services to the development department for design optimization.
+During my time at Bucher Leichtbau AG, I provided advice and support to all departments regarding initial airworthiness certification. My expertise included interpreting certification specifications, verifying documentation for "minor" and "major changes," and communicating with customers, official bodies, and authorities. Additionally, I provided consulting services to the development department for design optimization.
 
-I switched to data science back in 2021. At Crealogix AG, I provided advice and support to the department on new data science and machine learning products. I created prospect and upsell models, extracted information from fact-sheets using a customized OCR, and developed user journeys for chatbot dialogue flow. Furthermore, I developed chatbot solutions using IBM Watson and Spacy. 
+In 2021, I transitioned to data science and joined Crealogix AG. There, I provided advice and support to the department on new data science and machine learning products. My responsibilities included creating prospect and upsell models, extracting information from fact-sheets using customized OCR, and developing user journeys for chatbot dialogue flow. I also developed chatbot solutions using IBM Watson and Spacy.
 
-After Crealogix, I joined Prognolite AG, where I developed regression models to predict turnover and menu sales using customer data and external data such as weather or public holidays. We used Multi-Output Regression, Quarto👍, R, and Python, and customized API calls to fetch the data from the database - really cool stuff ⚡.
+After my time at Crealogix, I joined Prognolite AG, where I developed regression models to predict turnover and menu sales using customer data and external data such as weather or public holidays. We utilized Multi-Output Regression, Quarto👍, R, and Python, and implemented customized API calls to fetch the data from the database. It was really cool stuff ⚡.
 
-At the moment, I am finishing my Master's thesis 🙈, and soon, I will be working for... (to be continued 😎).
+Currently, I am in the final stages of my Master's programm 🙈, and soon I will be starting a new adventure... (to be continued 😎).
 
 ## 🌐 Socials:
 
