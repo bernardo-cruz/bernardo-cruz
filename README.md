@@ -1,5 +1,5 @@
 ## 👋 Hey there!
-I'm Bernardo, the master of the skies with a BSc in Aeronautical Engineering and (cross your fingers for me) soon-to-be MSc in Data Science. I'm a coding wizard and an engineering enthusiast, bringing the best of both worlds together. Hailing from the land of Swiss precision, Zurich 🇨🇭, I've soared through the skies as an aeronautical engineer for over seven glorious years and spent a couple of years as a data scientist, too.
+I'm Bernardo, the master of the skies with a BSc in Aeronautical Engineering and MSc in Data Science. I'm a coding wizard and an engineering enthusiast, bringing the best of both worlds together. Hailing from the land of Swiss precision, Zurich 🇨🇭, I've soared through the skies as an aeronautical engineer for over seven glorious years and spent a couple of years as a data scientist, too.
 
 ## 👨🏽‍💻 Experience  
 During my time at Bucher Leichtbau AG, I was the go-to guy for all things airworthiness certification. I cracked the code on interpreting those certification specifications, verifying documents for both "minor" and "major changes," and mastering the art of charming customers, official bodies, and authorities alike. Not to brag, but I even dazzled the development department with my consulting skills for design optimization.
