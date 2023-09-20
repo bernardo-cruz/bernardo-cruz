@@ -1,14 +1,5 @@
 ## 👋 Hey there!
-I'm Bernardo, the master of the skies with a BSc in Aeronautical Engineering and MSc in Data Science. I'm a coding wizard and an engineering enthusiast, bringing the best of both worlds together. Hailing from the land of Swiss precision, Zurich 🇨🇭, I've soared through the skies as an aeronautical engineer for over seven glorious years and spent a couple of years as a data scientist, too.
-
-## 👨🏽‍💻 Experience  
-During my time at Bucher Leichtbau AG, I was the go-to guy for all things airworthiness certification. I cracked the code on interpreting those certification specifications, verifying documents for both "minor" and "major changes," and mastering the art of charming customers, official bodies, and authorities alike. Not to brag, but I even dazzled the development department with my consulting skills for design optimization.
-
-But hey, life without change is boring and programming is cool, so I changed to the wild world of data science. At Crealogix AG, I played the role of a data sorcerer, conjuring up advice and support for the department's cutting-edge data science and machine learning products. I worked my magic on prospect and upsell models, pulling information from fact-sheets with my trusty customized OCR spell, and creating enchanting user journeys for chatbot dialogues. Oh, and did I mention I brewed chatbot solutions using IBM Watson and Spacy? Straight up sorcery!
-
-Then, I found myself at Prognolite AG, where I unleashed my predictive powers. Armed with customer data and the secret ingredients of weather and public holidays, I whipped up regression models to forecast turnover and menu sales. It was like a culinary adventure, where I sprinkled Multi-Output Regression, Quarto👍, R, and Python like seasonings, and even concocted special API calls to fetch data from the database. Let me tell you, it was some seriously cool wizardry ⚡.
-
-So, my friend, stay tuned for the next chapter in my epic saga. The stage is set, the curtain is about to rise, and Bernardo is ready to take center stage once again. Exciting times are ahead, and I can't wait to share the next part of this incredible journey with you. Until then, hold on tight and brace yourself for what's to come! 😎
+![Portfolio](https://bernardo-cruz.github.io/blog/)
 
 ## 🌐 Socials:
 
