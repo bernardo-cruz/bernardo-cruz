@@ -1,5 +1,8 @@
 ## 👋 Hey there!
-![Portfolio](https://bernardo-cruz.github.io/blog/)
+I am Bernardo, an aeronautical engineer with a BSc in Aeronautical Engineering and a MSc in Data Science. My passion lies in both coding and engineering. I am from Zurich 🇨🇭 and have over seven years of experience working as an aeronautical engineer and about three years as a data scientist.
+
+I would like to invite you go through my [blog](https://bernardo-cruz.github.io/blog/) 🤓. Please don’t hesitate to contact me if you have any questions or would like to collaborate on a project 🤝.
+
 
 ## 🌐 Socials:
 
