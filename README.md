@@ -6,7 +6,7 @@ I would like to invite you go through my [blog](https://bernardo-cruz.github.io/
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-freire-barboza-da-cruz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-freire-barboza-da-cruz/) [![my blog](https://img.shields.io/badge/visit_my-blog-blue)](https://bernardo-cruz.github.io/blog/)
 
 ## 💻 Tech Stack:
 
